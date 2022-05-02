@@ -1,6 +1,6 @@
 # sistema
 😃
-### Objetivo do projeto:
+### 📕 Objetivo do projeto:
 
 O projeto foi desebvolvido usando ReactJs, e teve como objetivo produzir un sistema de chanados usando funcionalidades do React como: React-router-dom, react Toastify, React-Icon.
 
